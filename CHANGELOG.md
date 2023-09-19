@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/amaanq/tree-sitter-luadoc/compare/v1.0.1...v1.1.0) (2023-09-19)
+
+
+### Features
+
+* support numeric literal types ([990926b](https://github.com/amaanq/tree-sitter-luadoc/commit/990926b13488a4bc0fc0804fc0f8400b5b0a1fb4))
+* support single quoted strings ([2e409fa](https://github.com/amaanq/tree-sitter-luadoc/commit/2e409faaae98b9093ed77c43e13a47d66d4f1526))
+
 ## [1.0.1](https://github.com/amaanq/tree-sitter-luadoc/compare/v1.0.0...v1.0.1) (2023-06-18)
 
 
